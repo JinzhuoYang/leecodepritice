@@ -27,4 +27,5 @@ def judge_negative(a):
 
 
 if __name__ == '__main__':
-    print(judge_negative(0))
+
+    print(judge_negative(int(input("please input a num:"))))
